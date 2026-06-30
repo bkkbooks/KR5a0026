@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5a0026/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5a0026/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上九天延祥滌厄四聖妙經
+  date: '2015-08-28 23:35:06.879726'
+  source:
+    repository: kanripo
+    path: KR5a0026
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0026_000-HFL.yaml, hash: 'sha256:41d81e4e6af01a2625e4803b8f0df88a651b4a4654d0fb432ae7328243f48350'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0026_000-HFL.markers.yaml, hash: 'sha256:d2b9a5b1222e73a14fd3f574625e1e07a31d5232e2b61853ed0682d48a2e3f75'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0026_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 3374
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:64f309957263867154b46733ebde3878369e576bd97b6040c984e26f3ed4e055
