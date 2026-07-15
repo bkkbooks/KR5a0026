@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR5a0026/v1
 canonical_location: https://kanripo.org/bkk/KR5a0026/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 太上九天延祥滌厄四聖妙經
   identifiers:
@@ -31,9 +31,9 @@ editions:
 - short: SJB
 assets:
   parts:
-  - {seq: 0, filename: KR5a0026_000.yaml, hash: 'sha256:f4e263887f78ce360c308368361c239e2da4bca4a06b694713efaa280c7dfabd'}
+  - {seq: 0, filename: KR5a0026_000.yaml, hash: 'sha256:f353eb733eb34c54364fb20d0a04c4449377c936d0dde07e1f2cb143af9cf12e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5a0026_000.markers.yaml, hash: 'sha256:6d39e3773c591d37bd7063b3afc55435c639317b9b1d5161e0f8c43e3a553158'}
+  - {seq: 0, role: markers, filename: assets/KR5a0026_000.markers.yaml, hash: 'sha256:138e4c4775a026098653dfb3a6304f3b0d8023fb1f53d32aba66e576d82a813a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -45,4 +45,7 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:89b7667089e56976bc51c6e4a1cf3a19fd75043b18a6f4a29e46e646155c7f16
+hash: sha256:f673183f52346923a8fd7b7fcc59001f0656691693a8d0a96db61c06bd641dda
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
